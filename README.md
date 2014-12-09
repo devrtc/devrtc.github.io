@@ -19,4 +19,4 @@ Web RTC is the high quality standard that allows free and easy access to pseudo 
 
 
 ####Thanks to 
-@raymondanthony / http://raynthony.io for the cool CSS promo
+[ray anthony](@rayantony) [site: rayanthony.io](http://raynthony.io) for the cool CSS promo
