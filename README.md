@@ -4,5 +4,5 @@ devrtc.github.io
 
 ###[The DevRTC Pages](devrtc.github.io)  
 
-###also visit [DevRTC.com][(http://devrtc.com)
+###also visit [DevRTC.com](http://devrtc.com)
 
